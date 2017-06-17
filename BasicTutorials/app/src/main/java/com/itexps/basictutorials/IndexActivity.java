@@ -44,6 +44,10 @@ public class IndexActivity extends AppCompatActivity implements AdapterView.OnIt
         {
             Intent intent=new Intent(this,Tutorial2Activity.class);
             startActivity(intent);
+        }else if(3==position)
+        {
+            Intent intent=new Intent(this,Tutorial3Activity.class);
+            startActivity(intent);
         }
 
     }
