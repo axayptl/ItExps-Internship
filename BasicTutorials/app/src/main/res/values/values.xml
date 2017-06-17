@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margin and padding start -->
+
+    <dimen name="margin_list_item_small">5dp</dimen>
+    <dimen name="margin_list_item_medium">10dp</dimen>
+    <dimen name="margin_list_item_large">18dp</dimen>
+
+    <dimen name="padding_list_item_small">5dp</dimen>
+    <dimen name="padding_list_item_medium">10dp</dimen>
+    <dimen name="padding_list_item_large">18dp</dimen>
+
+
+    <!-- Margin and padding end -->
+</resources>

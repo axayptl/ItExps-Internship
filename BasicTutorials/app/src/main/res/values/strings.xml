@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Basic Tutorials</string>
+
+
+    <string-array name="spinner_options">
+        <item>None</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>BLue</item>
+    </string-array>
+</resources>
